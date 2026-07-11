@@ -1,4 +1,4 @@
-#             Regresyon Modeli Seçimi
+<h1 align="center">Regresyon Modeli Seçimi</h1>
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
@@ -47,8 +47,7 @@ git clone <repo-url>
 
 # 2. Gerekli kütüphaneleri kurun
 pip install numpy pandas matplotlib scikit-learn
-
-
+```
 
 ---
 
