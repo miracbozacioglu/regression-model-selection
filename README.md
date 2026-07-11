@@ -1,4 +1,4 @@
-# Regresyon Modeli Seçimi
+#             Regresyon Modeli Seçimi
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
